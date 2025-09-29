@@ -1,0 +1,31 @@
+Part E1 – Merge Conflict Resolution Summary
+-------------------------------------------
+The merge conflict occurred in README.md when merging the Test branch into the working branch, because both branches modified the same file.
+
+Conflict markers were visible as:
+<<<<<<< HEAD
+Git Version: 2.43.0
+=======
+Student ID: 012578297
+>>>>>>> Test
+
+To resolve it, I opened README.md in an editor, kept both lines, removed the conflict markers, and saved:
+Student ID: 012578297
+Git Version: 2.43.0
+
+I then ran:
+  git add README.md
+  git commit -m "Resolve merge conflict in README.md: keep Student ID and Git version"
+and pushed the working branch to GitLab.
+
+Part C1 – Three HTML Changes Summary
+------------------------------------
+1) index.html – Changed the main heading:
+   From: <h1>Home</h1>
+   To:   <h1>Home – WGU D197 Project</h1>
+
+2) about.html – Added a project description paragraph:
+   <p>This project demonstrates version control using Git for WGU D197.</p>
+
+3) contact.html – Updated contact information:
+   <p>Email: dmjoh1@wgu.edu</p>

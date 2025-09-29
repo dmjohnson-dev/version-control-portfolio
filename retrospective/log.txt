@@ -1,0 +1,9 @@
+*   6f5a1be (HEAD -> working, tag: V.1.0.0, origin/working) Resolve merge conflict in README.md: keep Student ID and Git version
+|\  
+| * 2071750 (origin/Test, Test) README.md: add Student ID 012578297 on Test branch
+* | 1a4da8e README.md: add Git version number on Working branch
+|/  
+* 98438b8 Update contact.html: updated email to dmjoh1@wgu.edu
+* b2501eb Update about.html: added project description paragraph for WGU D197
+* 194e1b4 (origin/main, origin/Working, origin/HEAD, main) Added intial project
+* 959a15a Initial commit
