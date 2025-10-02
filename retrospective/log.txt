@@ -1,4 +1,6 @@
-*   6f5a1be (HEAD -> working, tag: V.1.0.0, origin/working) Resolve merge conflict in README.md: keep Student ID and Git version
+* e19eaca (HEAD -> working, origin/working) Add Retrospective_A-F.docx to retrospective directory
+* 341a8ec Add retrospective directory: git log, summary, and A–F screenshots doc
+*   6f5a1be (tag: V.1.0.0) Resolve merge conflict in README.md: keep Student ID and Git version
 |\  
 | * 2071750 (origin/Test, Test) README.md: add Student ID 012578297 on Test branch
 * | 1a4da8e README.md: add Git version number on Working branch
